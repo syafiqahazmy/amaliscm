@@ -1,3 +1,4 @@
 Ujian Amali Source Code Management
 
 - Github dan Git
+-Makmal Komputer 1
