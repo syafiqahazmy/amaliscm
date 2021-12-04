@@ -1,3 +1,4 @@
 ketrampilan
 -Membina repository di komputer
 -Setempat bangunkan branch
+-Gabungkan branch
